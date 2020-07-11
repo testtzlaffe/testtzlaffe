@@ -1,7 +1,3 @@
-<h3 align="center">
-  CHRISTIAN TESTTZLAFFE
-</h3>
-
 Contador na Petrobras, cursando Pós-graduação em Ciência de Dados e dois bootcamps fullstack: IGTI e GoStack da Rocketseat.
 
 ## :rocket: O que estou estudando
