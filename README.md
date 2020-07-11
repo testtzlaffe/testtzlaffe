@@ -1,18 +1,15 @@
-### Hi there 👋
+<h3 align="center">
+  CHRISTIAN TESTTZLAFFE
+</h3>
 
-### CHRISTIAN TESTTZLAFFE
+Contador na Petrobras, cursando Pós-graduação em Ciência de Dados e dois bootcamps fullstack: IGTI e GoStack da Rocketseat.
 
-<!--
-**testtzlaffe/testtzlaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :rocket: O que estou estudando
 
-Here are some ideas to get you started:
+HTML, CSS, JavaScript, TypeScript, PHP, Python, ReactJS, React Native, Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :coffee: Contato
+
+Se quiser iniciar um papo, conversar sobre qualquer assunto, me chame no <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Linkedin</a>.
+
+
