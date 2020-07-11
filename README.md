@@ -3,7 +3,7 @@
 
 Pós graduação em Ciência de Dados, Bootcamp Fullstack IGTI e Bootcamp GoStack da Rocketseat.
 
-- HTML, CSS, JavaScript, TypeScript, PHP, Python, ReactJS, React Native, Node.js.
+- Python, JavaScript, TypeScript, ReactJS, React Native e Node.js.
 
 ## :coffee: Contato
 
