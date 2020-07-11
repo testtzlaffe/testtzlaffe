@@ -1,8 +1,9 @@
-Contador na Petrobras, cursando Pós-graduação em Ciência de Dados e dois bootcamps fullstack: IGTI e GoStack da Rocketseat.
 
 ## :rocket: O que estou estudando
 
-HTML, CSS, JavaScript, TypeScript, PHP, Python, ReactJS, React Native, Node.js.
+Pós graduação em Ciência de Dados, Bootcamp Fullstack IGTI e Bootcamp GoStack da Rocketseat.
+
+- HTML, CSS, JavaScript, TypeScript, PHP, Python, ReactJS, React Native, Node.js.
 
 ## :coffee: Contato
 
