@@ -1,9 +1,14 @@
 
 ## :rocket: O que estou estudando
 
-Pós graduação em Ciência de Dados, Bootcamp Fullstack IGTI e Bootcamp GoStack da Rocketseat.
+Bootcamp GoStack da Rocketseat, Bootcamp Fullstack IGTI e Pós graduação em Ciência de Dados na PUC-Rio.
 
-- Python, JavaScript, TypeScript, ReactJS, React Native e Node.js.
+- JavaScript
+- TypeScript 
+- ReactJS 
+- React Native 
+- Node.js
+- Python
 
 ## :coffee: Contato
 
