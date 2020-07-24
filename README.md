@@ -10,6 +10,8 @@ Bootcamp GoStack  12 da Rocketseat, Bootcamp Fullstack IGTI e Pós graduação e
 - Node.js
 - Python
 
+Brinco um pouco com Laravel também :wink:
+
 ## :coffee: Contato
 
 Se quiser iniciar um papo, conversar sobre qualquer assunto, me chame no <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Linkedin</a>.
