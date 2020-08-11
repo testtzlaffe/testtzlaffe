@@ -1,5 +1,5 @@
 
-## :rocket: Sou um contador que está se apaixonando por programação. O que estou estudando...
+## :rocket: Contador / Dev. O que estou estudando...
 
 Bootcamp GoStack  12 da Rocketseat, Bootcamp Fullstack IGTI e Pós graduação em Ciência de Dados na PUC-Rio.
 
