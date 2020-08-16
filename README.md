@@ -1,7 +1,7 @@
 
 ## :rocket: Contador / Dev. O que estou estudando...
 
-Bootcamp GoStack  12 da Rocketseat, Bootcamp Fullstack IGTI e Pós graduação em Ciência de Dados na PUC-Rio.
+Bootcamp GoStack  12 da Rocketseat e Pós graduação em Ciência de Dados na PUC-Rio.
 
 - JavaScript
 - TypeScript 
