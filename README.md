@@ -1,7 +1,7 @@
 
-## :rocket: Contador / Dev. O que estou estudando...
+## :rocket: Contador / Dev. Estudando...
 
-Bootcamp GoStack  12 da Rocketseat e Pós graduação em Ciência de Dados na PUC-Rio.
+...Bootcamp GoStack  12 da Rocketseat e Pós-Graduação em Ciência de Dados na PUC-Rio.
 
 - JavaScript
 - TypeScript 
