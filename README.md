@@ -12,7 +12,7 @@
 
 Brinco um pouco com Laravel também :wink:
 
-Participando nas últimas semanas da Maratona Behind the Code, da IBM.
+Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
 
 ## :coffee: Contato
 
