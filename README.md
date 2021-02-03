@@ -1,7 +1,7 @@
 
 ## :rocket: Contador / Dev. Estudando...
 
-...Bootcamp GoStack  12 da Rocketseat e Pós-Graduação em Ciência de Dados na PUC-Rio.
+...Bootcamp GoStack da Rocketseat e Pós-Graduação em Ciência de Dados na PUC-Rio.
 
 - JavaScript
 - TypeScript 
@@ -9,8 +9,6 @@
 - React Native 
 - Node.js
 - Python
-
-Brinco um pouco com Laravel também :wink:
 
 Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
 
