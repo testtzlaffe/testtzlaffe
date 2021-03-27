@@ -1,5 +1,5 @@
 
-## :rocket: Contador / Estudante de Desenvolvimento Web.
+## :rocket: Contador / Estudante de Desenvolvimento Web
 
 Em andamento: Pós-Graduação em Ciência de Dados na PUC-Rio e Bootcamp JAMStack da Alura.
 
