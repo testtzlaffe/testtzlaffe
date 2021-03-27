@@ -17,6 +17,6 @@ Bootcamps concluídos: GoStack da Rocketseat e FullStack da IGTI.
 
 ## :coffee: Contato
 
-Se quiser iniciar um papo, me chame no <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Linkedin</a>.
+Se quiser bater um papo, me chame no <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Linkedin</a>.
 
 
