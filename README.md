@@ -1,13 +1,14 @@
 
 ## :rocket: Contador / Estudante de Desenvolvimento Web
 
-Em andamento: Pós-Graduação em Ciência de Dados na PUC-Rio e Bootcamp JAMStack da Alura.
+Em andamento: Pós-Graduação em Ciência de Dados na PUC-Rio, Bootcamp JAMStack da Alura e Ignite (ReactJS) da Rocketseat.
 
 Tecnologias que mais utilizo:
 
 - JavaScript
 - TypeScript 
 - ReactJS 
+- Next.js
 - Node.js
 - Python
 
