@@ -1,6 +1,8 @@
 
 ## :rocket: Contador / Estudante de Desenvolvimento Web
 
+Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
+
 Em andamento: Pós-Graduação em Ciência de Dados na PUC-Rio, Bootcamp JAMStack da Alura e Ignite (ReactJS) da Rocketseat.
 
 Tecnologias que mais utilizo:
@@ -11,8 +13,6 @@ Tecnologias que mais utilizo:
 - Next.js
 - Node.js
 - Python
-
-Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
 
 Bootcamps concluídos: GoStack da Rocketseat e FullStack da IGTI.
 
