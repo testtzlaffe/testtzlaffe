@@ -1,5 +1,5 @@
 
-## :rocket: Contador / Estudante de Desenvolvimento Web
+## :rocket: Contador / Estudante de Desenvolvimento Web e Ciência de Dados
 
 Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
 
