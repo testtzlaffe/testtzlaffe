@@ -2,6 +2,7 @@
 ## :rocket: Contador / Estudante de Desenvolvimento Web e Ciência de Dados
 
 Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
+
 Pós-graduação: Business Intelligence Master (PUC-Rio).
 
 Em andamento: Bootcamp JAMStack da Alura e Ignite (ReactJS) da Rocketseat.
