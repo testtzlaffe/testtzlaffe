@@ -3,7 +3,7 @@
 
 Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
 
-Pós-graduação: Business Intelligence Master (PUC-Rio).
+Pós-graduação: Business Intelligence Master (PUC-Rio) e MBA em Gestão Tributária (PUC-Rio).
 
 Em andamento: Bootcamp JAMStack da Alura e Ignite (ReactJS) da Rocketseat.
 
@@ -16,7 +16,7 @@ Tecnologias que mais utilizo:
 - Node.js
 - Python
 
-Bootcamps concluídos: GoStack da Rocketseat e FullStack da IGTI.
+Bootcamps concluídos: GoStack da Rocketseat (React + Node.js + React Native) e FullStack da IGTI.
 
 ## :coffee: Contato
 
