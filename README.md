@@ -11,12 +11,12 @@ Tecnologias que mais utilizo:
 
 - JavaScript
 - TypeScript 
-- ReactJS 
+- React 
 - Next.js
 - Node.js
 - Python
 
-Bootcamps concluídos: GoStack da Rocketseat (React + Node.js + React Native) e FullStack da IGTI.
+Bootcamps concluídos: GoStack da Rocketseat (React + Node.js + React Native) e FullStack da IGTI (React + Node.js).
 
 ## :coffee: Contato
 
