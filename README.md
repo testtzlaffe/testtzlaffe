@@ -5,7 +5,7 @@ Top 100 da [Maratona Behind the Code 2020](https://maratona.dev/pt) da IBM.
 
 Pós-graduação: Business Intelligence Master (PUC-Rio) e MBA em Gestão Tributária (PUC-Rio).
 
-Em andamento: Bootcamp JAMStack da Alura e nova trilha (2022) do Ignite (ReactJS) da Rocketseat.
+Em andamento: nova trilha (2022) do Ignite (ReactJS) da Rocketseat.
 
 Tecnologias que mais utilizo:
 
